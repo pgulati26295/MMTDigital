@@ -1,0 +1,9 @@
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.Dtos\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.Dtos.deps.json
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.Dtos\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.Dtos.dll
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.Dtos\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.Dtos.pdb
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.Dtos\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.Dtos.csprojAssemblyReference.cache
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.Dtos\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.Dtos.AssemblyInfoInputs.cache
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.Dtos\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.Dtos.AssemblyInfo.cs
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.Dtos\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.Dtos.csproj.CoreCompileInputs.cache
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.Dtos\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.Dtos.dll
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.Dtos\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.Dtos.pdb

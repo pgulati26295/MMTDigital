@@ -1,0 +1,14 @@
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.deps.json
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.dll
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.pdb
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.Core.dll
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.dll
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.Core.pdb
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.pdb
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.csprojAssemblyReference.cache
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.AssemblyInfoInputs.cache
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.AssemblyInfo.cs
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.csproj.CoreCompileInputs.cache
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.csproj.CopyComplete
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.dll
+D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.CustomerData\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.CustomerData.pdb
