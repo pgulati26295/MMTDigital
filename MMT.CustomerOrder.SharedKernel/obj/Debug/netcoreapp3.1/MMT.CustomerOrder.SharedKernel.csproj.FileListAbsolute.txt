@@ -1,9 +1,0 @@
-D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.SharedKernel\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.deps.json
-D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.SharedKernel\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.dll
-D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.SharedKernel\bin\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.pdb
-D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.SharedKernel\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.csprojAssemblyReference.cache
-D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.SharedKernel\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.AssemblyInfoInputs.cache
-D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.SharedKernel\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.AssemblyInfo.cs
-D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.SharedKernel\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.csproj.CoreCompileInputs.cache
-D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.SharedKernel\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.dll
-D:\Preeti\MMT.CustomerOrder\MMT.CustomerOrder.SharedKernel\obj\Debug\netcoreapp3.1\MMT.CustomerOrder.SharedKernel.pdb
